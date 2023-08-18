@@ -1,4 +1,4 @@
-# EE/NIS/TM 582: Wireless Netowrking: Architectures, Protocols, and Standards
+# EE/NIS/TM 582: Wireless Networking: Architectures, Protocols, and Standards
 
 ## Syllabus
 
@@ -18,7 +18,7 @@ Email: yyao@stevens.edu </br>
 [8] T. S. Rappaport, Wireless Communications: Principles and Practice, Prentice Hall, 1996. </br>
 </br>
 
-**Grading:**
+**Grading:** </br>
 Homework 10% </br>
 Term Paper 10% </br>
 Midterm (open book) 10% </br>
@@ -41,17 +41,20 @@ Upon completing this course student should be able to:
 
 **Topical Outline:** </br>
 
-| Week | Topic | Textbook Chapter
+| Week | Topic | HW
 | --- | --- | --- |
-| 1 | Lec. 1: "Overview of Computer Networks and Wireless Networks" | |
-| 2 | Lec. 2: "Cellular Concepts and Design" | |
-| 3 | Lec. 3: "Physcial Layer Fundamentals" | |
-| 4 | Lec. 4: "Data Link Control Protocols" | |
-| 5 | Lec. 5: "Medium Access Control (MAC)" | |
-| 6 | Lec. 6: "Radio Resource Management" | |
-| 7 | Midterm | |
-| 8 | Lec. 7: "Resource Allocation and Call Admission Control", Project assignment | |
-| 9 | Lec. 8: "Mobility Management" | |
-| 10 | Lec. 9: "Wireless Networking" | |
-| 11 | Lec. 10: "Cellular Systems" | |
-| 12 | Lec. 11: "Mobile IP" | |
+| 0 | Orientation | |
+| 1 | Lec. 1: "Overview of Computer Networks and Wireless Networks" | HW1 |
+| 2 | Lec. 2: "Cellular Concepts and Design" | HW2 |
+| 3 | Lec. 3: "Physcial Layer Fundamentals" | HW3 |
+| 4 | Lec. 4: "Data Link Control Protocols" | HW4 |
+| 5 | Lec. 5: "Medium Access Control (MAC)" | HW5 |
+| 6 | Lec. 6: "Radio Resource Management" | HW6 |
+| 7 | Midterm | Midterm |
+| 8 | Lec. 7: "Resource Allocation and Call Admission Control", Project assignment | HW7, Project assignment |
+| 9 | Lec. 8: "Mobility Management" | HW8 |
+| 10 | Lec. 9: "Wireless Networking" | HW9 |
+| 11 | Lec. 10: "Cellular Systems" | HW10 |
+| 12 | Lec. 11: "Mobile IP" | Project due |
+| 13 | Lec. 12: "Mobile IP: Registration and Tunneling" | None |
+| Final | Final | Final |
