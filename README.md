@@ -1,9 +1,11 @@
 # EE/NIS/TM 582: Wireless Networking: Architectures, Protocols, and Standards
 
+![Stevens Transparent Logo](stevenslogo.png)
+
 ## Syllabus
 
 Instructor: Prof. Yu-Dong Yao </br>
-Email: yyao@stevens.edu </br>
+[Email](yyao@stevens.edu) </br>
 </br>
 **Textbook:** No required textbook. </br>
 </br>
