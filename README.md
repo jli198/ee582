@@ -5,7 +5,7 @@
 ## Syllabus
 
 Instructor: Prof. Yu-Dong Yao </br>
-[Email](yyao@stevens.edu) </br>
+[Email](mailto:yyao@stevens.edu) </br>
 </br>
 **Textbook:** No required textbook. </br>
 </br>
